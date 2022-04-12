@@ -1,5 +1,3 @@
-# One Chain Chat application
-
 ## Available Scripts
 
 ### `yarn start`
